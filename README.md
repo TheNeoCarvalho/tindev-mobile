@@ -17,4 +17,4 @@
  Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br>
 
  Execute o aplicativo em modo de desenvolvedor. <br>
- Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.<br>
+ Abra [http: // localhost: 3000](http: // localhost: 3000) para visualizá-lo no navegador.<br>
